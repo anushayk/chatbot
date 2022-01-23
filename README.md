@@ -4,7 +4,8 @@
 This is a multipurpose chatbot made using Python, who can chat with you and help in performing daily tasks. 
 
 ## Video Demo
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. ## Features 
+[Click here to see the demo](https://prezi.com/v/ag66gdz5d5np/pyjac-vid/) 
+## Features 
 The bot can:
 
 1. Chat with you
