@@ -186,12 +186,18 @@ hi = {
         {
             "subject": "contact",
             "patterns": [
+                "add to contacts"
+                "add a contact"
                 "Contact"
+                "contacts"
+                "Contacts"
+                "contact"
             ],
             "responses": [
                 "Adding contact...",
             ]
         },
+        
         {
             "subject": "alarm",
             "patterns": [
