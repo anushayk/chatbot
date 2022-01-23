@@ -4,7 +4,7 @@
 This is a multipurpose chatbot made using Python, who can chat with you and help in performing daily tasks. 
 
 ## Video Demo
-[Click here to see the demo](https://prezi.com/v/ag66gdz5d5np/pyjac-vid/) 
+[Click here to learn more about the project](https://prezi.com/v/ag66gdz5d5np/pyjac-vid/) 
 ## Features 
 The bot can:
 
