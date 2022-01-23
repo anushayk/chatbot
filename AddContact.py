@@ -170,7 +170,7 @@ class Contact:
                           "4. Get information about a contact \n"
                           "5. Edit an exisiting contact \n "
                           "6. Show all your contacts: \n "
-                          "7.  quit"))
+                          "7.  quit: "))
             if (h == 1):
                 self.add_contact()
             if (h == 2):
