@@ -86,7 +86,7 @@ hi = {
                 "Help"
             ],
             "responses": [
-                "I am a general purpose chatbot. My capabilities are : \n 1. I can chat with you. Try asking me for jokes. \n 2. I can add a new contact\n 3. I can search something in google for you \n 4. I can get you the weather for any country. \n 5. I can add to your grocery list\n 6. I can set a timer \n "
+                "I am a general purpose chatbot. My capabilities are : \n 1. I can chat with you. Try asking me for jokes or riddles. \n 2. I can add a new contact\n 3. I can search something in google for you \n 4. I can get you the weather for any country. \n 5. I can add to your grocery list\n 6. I can set a timer \n "
             ]
         },
 
