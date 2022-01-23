@@ -33,7 +33,7 @@ def grocery():
             grocery_list.append(c)
             print("Great your item has been added!")
         elif x == "show":
-            print("Your grocer list: ")
+            print("Your grocery list: ")
             return grocery_list
         elif x == "remove":
             l = input("Enter the item you would like to remove: ")
